@@ -73,21 +73,21 @@
       "desktop": {
         "items": [
           {
-            "src": "/images/home/benefit/card_1.svg",
+            "src": "/images/home/benefit/card_1_new.svg",
             "alt": "card_1.svg",
             "width": 730,
             "height": 124,
             "quality": 100
           },
           {
-            "src": "/images/home/benefit/card_2.svg",
+            "src": "/images/home/benefit/card_2_new.svg",
             "alt": "card_2.svg",
             "width": 730,
             "height": 124,
             "quality": 100
           },
           {
-            "src": "/images/home/benefit/card_3.svg",
+            "src": "/images/home/benefit/card_3_new.svg",
             "alt": "card_3.svg",
             "width": 730,
             "height": 124,
