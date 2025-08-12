@@ -31,7 +31,7 @@ export const ContactUsHome = () => {
         </h2>
         <p
           className={clsx(
-            "text-[0.875rem] lg:text-[1.5rem] text-[#5B5B5B] font-normal text-center"
+            "text-[0.875rem] lg:text-[1.625rem] text-[#5B5B5B] font-normal text-center"
           )}
         >
           {dictionaries.contact_us.description}

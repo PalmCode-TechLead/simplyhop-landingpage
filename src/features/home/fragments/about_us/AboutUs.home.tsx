@@ -47,7 +47,7 @@ export const AboutUsHome = () => {
         >
           <h2
             className={clsx(
-              "text-[1.5rem] lg:text-[2rem] text-[#33CC33] font-bold"
+              "text-[1.5rem] lg:text-[2rem] text-[#242424] font-bold"
             )}
           >
             {dictionaries.about_us.title}

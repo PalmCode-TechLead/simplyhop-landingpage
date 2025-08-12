@@ -5,7 +5,7 @@
     },
     "title": "„Sachsen ",
     "title_2": "fährt mit'",
-    "description": "Sachsen fährt mit – Start im September 2025",
+    "description": "Sachsen fährt mit – Start im Dezember 2025",
     "image": {
       "src": "/images/home/hero/image.svg",
       "alt": "hero_image",
@@ -19,9 +19,22 @@
     "contents": [
       "Die neue Mitfahrplattform für ganz Sachsen.",
       "<br />",
-      "Ab September 2025 startet Sachsen fährt mit – das regionale Mitfahrportal für Berufspendler*innen. ",
+      "Ab Dezember 2025 startet Sachsen Fährt Mit – das regionale Mitfahrportal für Berufspendler*innen. ",
       "<br />",
-      "Unser Ziel: Mitarbeitende großer Unternehmen, Behörden und Institutionen intelligent vernetzen und so den Weg zur Arbeit entspannter, günstiger und umweltfreundlicher machen"
+      "Unser Ziel: Mitarbeitende großer Unternehmen, Behörden und Institutionen intelligent vernetzen und so den Weg zur Arbeit entspannter, günstiger und umweltfreundlicher machen.",
+      "<br />",
+      "🎉 ON Top und inklusive ab Dezember: Mobilität für Veranstaltungen – mit „Sachsen fährt mit“",
+      "<br />",
+      "Ob Fußballspiel, Sportveranstaltung, Konzert, Messe oder Festival – mit Sachsen fährt mit kommen Gäste gemeinsam und klimafreundlich ans Ziel.",
+      "<br />",
+      "Veranstalter können direkt auf die Plattform verlinken – zum Beispiel bei einem Heimspiel von Dynamo Dresden:",
+      "Fans mit Auto bieten eine Mitfahrt zum Stadion an, andere finden ihre passende Mitfahrgelegenheit – einfach, flexibel und ganz ohne zusätzlichen Aufwand.",
+      "<br />",
+      "🔁 Fahrgemeinschaft statt Parkplatzsuche.",
+      "<br />",
+      "🌱 Nachhaltig. Digital. Gemeinschaftlich.",
+      "<br />",
+      "➡️ Jetzt Mitfahrziel anlegen und Veranstaltung entlasten."
     ],
     "image": {
       "src": "/images/home/about_us/image.svg",
@@ -41,8 +54,8 @@
   "benefit": {
     "title": "Was macht SACHSEN FÄHRT MIT besonders?",
     "contents": [
-      "S.F.M ist ein Benefit Eures Arbeitgebers",
-      "Einfach passende Fahrgemeinschaften finden – nach Arbeitszeit, Schichtmodell oder Route",
+      "S.F.M ist ein Benefit Eures Arbeitgebers, Veranstalters und / oder Eures Sportvereins",
+      "Einfach passende Fahrgemeinschaften finden – nach Arbeitszeit, Schichtmodell, Event oder Route",
       "Kostenfrei und werbefrei nutzbar – ohne Gebühren, ohne Datenweitergabe",
       "DSGVO-konform – mit Serverstandort in Deutschland",
       "Klimafreundlich und solidarisch – für weniger Verkehr, mehr Parkraum und gemeinsame Ersparnisse",
@@ -93,7 +106,7 @@
   },
   "contact_us": {
     "title": "Schon dabei?",
-    "description": "Viele sächsische Unternehmen sind bereits Partner. Frag nach, ob auch dein Arbeitgeber dazugehört – oder schreib uns:",
+    "description": "Viele sächsische Unternehmen, Veranstalter und Sportvereine sind bereits Partner. Frag nach, ob auch dein Arbeitgeber, Dein Event und Deine Sportveranstaltung dazugehören – oder schreib uns:",
     "email": {
       "href": "mailto:service@simplyhop.com",
       "children": "✉️<br/><u>service@simplyhop.com</u>"
