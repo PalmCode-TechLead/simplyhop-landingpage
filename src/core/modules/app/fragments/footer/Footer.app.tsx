@@ -71,7 +71,7 @@ export const FooterApp = () => {
         {/* link */}
         <div
           className={clsx(
-            "grid grid-cols-1 lg:grid-cols-4 place-content-start place-items-start gap-[2.5rem]",
+            "grid grid-cols-1 lg:grid-cols-3 place-content-start place-items-start gap-[2.5rem]",
             "w-full"
           )}
         >
@@ -121,55 +121,6 @@ export const FooterApp = () => {
                 </Link>
               )
             )}
-          </div>
-
-          {/* function */}
-          <div
-            className={clsx(
-              "grid grid-cols-1 place-content-start place-items-start gap-[2rem]",
-              "w-full"
-            )}
-          >
-            <span className={clsx("text-[#232323] text-[1.125rem] font-bold")}>
-              {dictionaries.footer.middle.function.title}
-            </span>
-            <div
-              className={clsx(
-                "grid grid-col-1 place-content-start place-items-start gap-[1.5rem]"
-              )}
-            >
-              {dictionaries.footer.middle.function.items.map(
-                (item, itemIndex) => {
-                  // const link =
-                  //   item.id === "Mitfahrt suchen" ? item.href : item.href;
-                  // if (item.id === "Mitfahrt suchen") {
-                  //   return (
-                  //     <Link
-                  //       key={itemIndex}
-                  //       href={link}
-                  //       className={clsx(
-                  //         "text-[#5B5B5B] hover:text-green-500 text-[0.875rem] font-normal hover:font-medium"
-                  //       )}
-                  //     >
-                  //       {item.name}
-                  //     </Link>
-                  //   );
-                  // }
-                  return (
-                    // DISABLED: Link functionality temporarily disabled
-                    <span
-                      key={itemIndex}
-                      className={clsx(
-                        "text-gray-400 cursor-not-allowed text-[0.875rem] font-normal opacity-50 select-none"
-                      )}
-                      title="This feature is temporarily disabled"
-                    >
-                      {item.name}
-                    </span>
-                  );
-                }
-              )}
-            </div>
           </div>
 
           {/* legal */}
