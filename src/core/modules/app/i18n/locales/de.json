@@ -11,33 +11,151 @@
     }
   },
   "footer": {
-    "legal": {
-      "items": [
-        {
-          "id": "Impressum",
-          "name": "Impressum",
-          "href": "/impressum"
-        },
-        {
-          "id": "Barrierefreiheitserklärung",
-          "name": "Barrierefreiheitserklärung",
-          "href": "/accessibility"
-        },
-        {
-          "id": "datenschutz",
-          "name": "Datenschutz",
-          "href": "/datenschutz"
-        },
-        {
-          "id": "agb",
-          "name": "AGB",
-          "href": "/agb"
+    "top": {
+      "logo": {
+        "href": "/mitfahrt-suchen",
+        "image": {
+          "src": "/logo/simply_hop.svg",
+          "width": 170,
+          "height": 170,
+          "alt": "logo",
+          "priority": true
         }
-      ]
+      },
+
+      "social_media": {
+        "items": [
+          {
+            "id": "facebook",
+            "href": "",
+            "icon": {
+              "name": "Facebook3"
+            }
+          },
+          {
+            "id": "linkedin",
+            "href": "",
+            "icon": {
+              "name": "Linkedin"
+            }
+          },
+          {
+            "id": "instagram",
+            "href": "",
+            "icon": {
+              "name": "Instagram"
+            }
+          }
+        ]
+      }
     },
-    "credit": {
-      "ico": "Copyright",
-      "label": "2025 SimplyHop. Alle Rechte vorbehalten."
+    "middle": {
+      "contact_center": {
+        "items": [
+          {
+            "id": "simply_hop",
+            "name": "Sachsen Fährt Mit",
+            "description": "Altmarkt 10 B/D<br/>01067 Dresden",
+            "image_url": "/images/general/simplyhop.png",
+            "href": "https://maps.app.goo.gl/PYFPrgZuBBy7HRWw6"
+          },
+          {
+            "id": "call_center",
+            "name": "Telefon",
+            "description": "+49 / 0172 797 16 66",
+            "image_url": "/images/general/phone_3d.png",
+            "href": "tel:+4901727971666"
+          },
+          {
+            "id": "email",
+            "name": "E-Mail",
+            "description": "service@sachsenfaehrtmit.com",
+            "image_url": "/images/general/email.png",
+            "href": "mailto:service@sachsenfaehrtmit.com"
+          }
+        ]
+      },
+      "function": {
+        "title": "Funktionen",
+        "items": [
+          {
+            "id": "Mitfahrt suchen",
+            "name": "Mitfahrt suchen",
+            "href": "/mitfahrt-suchen"
+          },
+          {
+            "id": "Mitfahrt anbieten",
+            "name": "Mitfahrt anbieten",
+            "href": "/mitfahrt-anbieten"
+          },
+          {
+            "id": "Meine Fahrten",
+            "name": "Meine Fahrten",
+            "href": "/meine-fahrten"
+          }
+        ]
+      },
+      "company": {
+        "title": "Unternehmen",
+        "items": [
+          {
+            "id": "Über uns",
+            "name": "Über uns",
+            "href": ""
+          },
+          {
+            "id": "Häufige Fragen",
+            "name": "Häufige Fragen",
+            "href": ""
+          },
+          {
+            "id": "Blog",
+            "name": "Blog",
+            "href": ""
+          }
+        ]
+      },
+      "legal": {
+        "title": "Rechtliches",
+        "items": [
+          {
+            "id": "FAQ",
+            "name": "FAQ",
+            "href": "/faq"
+          },
+          {
+            "id": "Barrierefreiheitserklärung",
+            "name": "Barrierefreiheitserklärung",
+            "href": "/accessibility"
+          },
+          {
+            "id": "Datenschutz",
+            "name": "Datenschutz",
+            "href": "/datenschutz"
+          },
+          {
+            "id": "AGB",
+            "name": "AGB",
+            "href": "/agb"
+          },
+          {
+            "id": "Impressum",
+            "name": "Impressum",
+            "href": "/impressum"
+          }
+        ]
+      }
+    },
+    "bottom": {
+      "copyright": "2025 Sachsen Fährt Mit. Alle Rechte vorbehalten."
+    }
+  },
+  "eu": {
+    "image": {
+      "alt": "eu",
+      "src": "/logo/eu.jpg",
+      "width": 1165,
+      "height": 565
     }
   },
   "contact": {
