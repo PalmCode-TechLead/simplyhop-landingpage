@@ -1,8 +1,7 @@
-import * as React from "react";
+
 import clsx from "clsx";
 import { getDictionaries } from "../../i18n";
 import Link from "next/link";
-import Image from "next/image";
 
 export const ContactUsHome = () => {
   const dictionaries = getDictionaries();
@@ -45,25 +44,6 @@ export const ContactUsHome = () => {
             __html: dictionaries.contact_us.email.children,
           }}
         />
-      </div>
-      <div
-        className={clsx(
-          "flex items-center justify-end",
-          "w-full",
-          "pb-[2rem]"
-        )}
-      >
-        <div
-          className={clsx(
-            "grid grid-cols-1 place-content-start place-items-start gap-[2rem]",
-            "w-full max-w-[400px]"
-          )}
-        >
-          <Image
-            {...dictionaries.contact_us.eu.image}
-            className={clsx("w-full")}
-          />
-        </div>
       </div>
     </div>
   );

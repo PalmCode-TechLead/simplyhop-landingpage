@@ -1,7 +1,5 @@
 "use client";
-import * as React from "react";
 import clsx from "clsx";
-import Image from "next/image";
 import { getDictionaries } from "../i18n";
 import { HeaderHelpCenter } from "@/core/components/header_help_center";
 
@@ -82,7 +80,6 @@ export const AccessibilityHelpCenterContainer = () => {
           )}
         </div>
       ))}
-      <Image {...dictionaries.image} className={clsx("w-[340px]")} />
     </div>
   );
 };
