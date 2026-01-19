@@ -52,15 +52,18 @@ export const FooterApp = () => {
                   key={itemIndex}
                   href={item.href}
                   className={clsx(
-                    "flex items-center justify-center",
+                    "group flex items-center justify-center",
                     "px-[0.5rem] py-[0.5rem]",
                     "rounded-[0.625rem]",
-                    item.id === "facebook" ? "bg-[#EFF9EC]" : "bg-[transparent]"
+                    "hover:bg-[#EFF9EC]"
                   )}
                 >
                   <SVGIcon
                     name={item.icon.name as SVGIconProps["name"]}
-                    className={clsx("w-[1.5rem] h-[1.5rem]", "text-[#5B5B5B]")}
+                    className={clsx(
+                      "w-[1.5rem] h-[1.5rem]",
+                      "fill-[#5B5B5B] group-hover:fill-[#249124]",
+                    )}
                   />
                 </Link>
               )

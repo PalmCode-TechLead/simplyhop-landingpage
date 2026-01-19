@@ -27,21 +27,21 @@
         "items": [
           {
             "id": "facebook",
-            "href": "",
+            "href": "https://www.facebook.com/simplyhop/",
             "icon": {
               "name": "Facebook3"
             }
           },
           {
             "id": "linkedin",
-            "href": "",
+            "href": "https://www.linkedin.com/company/simplyhop/",
             "icon": {
               "name": "Linkedin"
             }
           },
           {
             "id": "instagram",
-            "href": "",
+            "href": "https://www.instagram.com/sachsenfaehrtmit/",
             "icon": {
               "name": "Instagram"
             }
@@ -147,7 +147,7 @@
       }
     },
     "bottom": {
-      "copyright": "2025 Sachsen Fährt Mit. Alle Rechte vorbehalten."
+      "copyright": "2026 Sachsen Fährt Mit. Alle Rechte vorbehalten."
     }
   },
   "eu": {
