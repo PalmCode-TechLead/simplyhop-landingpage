@@ -1,5 +1,4 @@
 "use client";
-import * as React from "react";
 import clsx from "clsx";
 import { getDictionaries } from "../i18n";
 import { HeaderHelpCenter } from "@/core/components/header_help_center";
@@ -16,7 +15,7 @@ export const FAQHelpCenterContainer = () => {
       )}
     >
       <HeaderHelpCenter title={dictionaries.title} />
-      <div
+      {/* <div
         className={clsx(
           "grid grid-cols-1 place-content-start place-items-start gap-[0.5rem]",
           "w-full"
@@ -30,7 +29,7 @@ export const FAQHelpCenterContainer = () => {
             {preItem}
           </p>
         ))}
-      </div>
+      </div> */}
       <TabFAQHelpCenter />
     </div>
   );

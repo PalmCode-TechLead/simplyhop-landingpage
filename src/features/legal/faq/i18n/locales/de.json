@@ -22,61 +22,48 @@
         "tabId": "1",
         "list": [
           {
-            "question": "Kosten",
-            "answer": "Tägliche innerstädtische Fahrten in die Arbeit können teuer oder langwierig sein. Mit Simply Hop kannst Du durch die Kostenbeteiligung Deine eigenen Fixkosten für die innerstädtische Mobilität erheblich und nachhaltig senken."
+            "question": "Was ist Sachsen Fährt Mit?",
+            "answer": "Sachsen Fährt Mit ist eine regionale Lösung für B2B-Carpooling in Sachsen. Unternehmen, Institutionen und Vereine stellen ihren Mitarbeitenden, Gästen oder Fans darüber eine Plattform zur privaten Bildung von Fahrgemeinschaften zu festen Destinationen zur Verfügung (z. B. Arbeitsstätte, Trainingsort oder Veranstaltungsort)."
           },
           {
-            "question": "Komfort und Bequemlichkeit",
-            "answer": "Du musst nicht selbst fahren und kannst die Zeit im Auto für gute Gespräche oder auch zur Entspannung nutzen, sparst Dir den Stress mit Parkplatzsuche oder Navigieren durch den Stadtverkehr"
+            "question": "Wer kann Sachsen Fährt Mit nutzen?",
+            "answer": "Sachsen Fährt Mit wird von Teilnehmenden genutzt, z. B. Mitarbeitenden, Vereinsmitgliedern, Fans, Gästen oder Festivalbesuchern. Der Zugang erfolgt ausschließlich über eine Organisation (Arbeitgeber, Institution oder Verein)."
           },
           {
-            "question": "Umweltfreundlichkeit",
-            "answer": "Durch das Teilen von Fahrten trägst du aktiv zur Reduzierung der Verkehrsbelastung und der CO₂-Emissionen in der Stadt bei. Weniger Autos bedeuten auch weniger Staus und bessere Luftqualität."
+            "question": "Was bedeutet B2B-Carpooling?",
+            "answer": "B2B-Carpooling bedeutet, dass eine Organisation den Zugang zur Plattform bereitstellt, die Nutzung jedoch privat zwischen den Teilnehmenden erfolgt. Es findet keine gewerbliche Personenbeförderung statt."
           },
           {
-            "question": "Zeitersparnis",
-            "answer": "Mit Simply Hop kannst du oft schneller ans Ziel gelangen, da du dir die Zeit für Parkplatzsuche und Umsteigen sparst. Außerdem sind unsere Routen flexibel und ggf. auf deine Bedürfnisse abstimmbar."
+            "question": "Ist Sachsen Fährt Mit ein Fahrdienst oder Ridesharing-Anbieter?",
+            "answer": "Nein. Sachsen Fährt Mit erbringt keine Beförderungs- oder Fahrdienstleistung. Die Plattform dient ausschließlich der Vermittlung privater Fahrgemeinschaften."
           },
           {
-            "question": "Sozialer Austausch",
-            "answer": "Nutze die Gelegenheit, neue Leute aus deiner Stadt kennenzulernen und interessante Gespräche zu führen. Dies kann besonders in einer großen Stadt eine bereichernde Erfahrung sein."
+            "question": "Wie funktionieren Fahrgemeinschaften bei Sachsen Fährt Mit?",
+            "answer": "Teilnehmende registrieren sich über Sachsen Fährt Mit, stellen Fahrten zu festen Destinationen ein und stimmen Details privat miteinander ab."
           },
           {
-            "question": "Flexible Routen und Abholpunkte",
-            "answer": "Simply Hop bietet Euch durch eigene Absprachen flexible Abhol- und Absetzpunkte, was deine innerstädtische Reiseplanung erleichtert und dir mehr Optionen für deine innerstädtische Route ermöglicht."
+            "question": "Gibt es flexible Treffpunkte oder wechselnde Ziele?",
+            "answer": "Nein. Sachsen Fährt Mit ist auf feste Destinationen ausgelegt, die durch die Organisation vorgegeben sind."
           },
           {
-            "question": "Sicherheit",
-            "answer": "Simply Hop legt natürlich großen Wert auf Sicherheit. Alle Fahrten können über die sozialen Medien geteilt werden, sind für 14 Tage in unserem System gespeichert und kurzfristig über unsere IT abrufbar. Des weiteren werden die Infos zu Fahrer / Mitfahrer mit Hdy Nr., E Mail, PKW in unserem System gespeichert."
-          }
-        ]
-      },
-      {
-        "tabId": "2",
-        "list": [
-          {
-            "question": "Kosten",
-            "answer": "Als Fahrer bei Simply Hop hast Du den Vorteil der eigenen Kostenreduzierung für Deine täglichen Fahrten in die Arbeit und zurück. Selbstverständlich steht Dir die Simply Hop auch am WE zur Verfügung. Durch das Mitnehmen von Mitfahrern kannst du deine Benzin- und Parkkosten teilen, was deine täglichen Fahr – bzw. Betriebskosten erheblich senkt. Dies ist besonders in Städten mit hohen Parkgebühren und Spritpreisen von Vorteil. Dabei wird Dein Auto besser ausgelastet, was den Verschleiß und die Betriebskosten im Verhältnis zur Anzahl der Passagiere senkt. Dies ist besonders nützlich in einer Stadt, wo Autos oft nur für kurze Strecken genutzt werden."
+            "question": "Ist die Nutzung kostenpflichtig?",
+            "answer": "Nein. Die Nutzung ist für Teilnehmende kostenfrei. Eine mögliche Kostenbeteiligung wird privat vereinbart."
           },
           {
-            "question": "Umweltfreundlichkeit",
-            "answer": "Auch als Fahrer trägst du zur Reduzierung der CO₂-Emissionen bei, indem du dein Fahrzeug in Form von Mitfahrmöglichkeiten mit anderen teilst. Weniger Autos auf der Straße bedeuten für alle weniger Staus und eine bessere Luftqualität."
+            "question": "Warum erfolgt eine Weiterleitung bei Registrierung oder Fahrterstellung?",
+            "answer": "Sachsen Fährt Mit nutzt die technische Plattform von Simply Hop. Daher erfolgen Registrierung und Fahrtenanlage über die zentrale Simply-Hop-Plattform."
           },
           {
-            "question": "Zeitersparnis",
-            "answer": "Du kannst die Fahrten effizienter gestalten und deine Mitfahrer an strategischen Punkten absetzen, was deine tägliche Pendelzeit reduziert und den Stress im Stadtverkehr mindert."
+            "question": "Welche Daten werden gespeichert?",
+            "answer": "Es werden nur die für die Nutzung notwendigen Daten gespeichert. Details finden sich in der Datenschutzerklärung."
           },
           {
-            "question": "Soziale Interaktion:",
-            "answer": "Du hast die Möglichkeit, interessante Mitfahrer kennenzulernen und während der Fahrt neue Kontakte zu knüpfen. Dies kann zu einem angenehmeren Fahrerlebnis beitragen und deinen Alltag bereichern."
+            "question": "Wie lange werden Fahrten gespeichert?",
+            "answer": "Fahrtdaten werden für einen Zeitraum von bis zu 12 Monaten gespeichert.<br/>Ist Sachsen Fährt Mit auch für Veranstaltungen oder Festivals geeignet?<br/>Ja. Die Plattform eignet sich für Veranstaltungen, Sportevents, Vereinsfahrten und Festivals."
           },
           {
-            "question": "Flexible Routen und Abholpunkte:",
-            "answer": "Simply Hop bietet Euch durch eigene Absprachen flexible Abhol- und Absetzpunkte, was deine innerstädtische Reiseplanung erleichtert und dir mehr Optionen für deine innerstädtische Route ermöglicht."
-          },
-          {
-            "question": "Sicherheit",
-            "answer": "Simply Hop legt wie bei den Mitfahrenden natürlich auch großen Wert auf die Sicherheit der Fahrer.  Daher gilt für alle Beteiligten: Alle Fahrten können über die sozialen Medien geteilt werden, werden für 14 Tage in unserem System gespeichert und kurzfristig über unsere IT abrufbar. Des weiteren werden die Infos zu Fahrer / Mitfahrer mit Hdy Nr., E Mail, PKW in unserem System gespeichert."
+            "question": "Wer ist Ansprechpartner bei Fragen?",
+            "answer": "Bei Fragen wende dich an deine Organisation oder direkt an das Team von Sachsen Fährt Mit."
           }
         ]
       }
