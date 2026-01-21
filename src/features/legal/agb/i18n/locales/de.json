@@ -1,118 +1,88 @@
 {
-  "title": "AGB’s",
+  "title": "Allgemeine Geschäftsbedingungen (AGB) Website \"Sachsen Fährt Mit\"",
   "contents": [
     {
-      "title": "",
+      "title": "Betreiber",
       "type": "paragraph",
       "content": [
-        "Allgemeine Geschäftsbedingungen (AGB)",
-        "Sachsen Fährt Mit / Drive Together",
-        "Version 1.0",
-        "",
-        "Diese Allgemeinen Geschäftsbedingungen gelten für die Nutzung der digitalen Plattform",
-        "Sachsen Fährt Mit / Drive Together."
+        "Marcus Ritter",
+        "Einzelunternehmer",
+        "Altmarkt 10 B / D",
+        "01067 Dresden",
+        "Deutschland",
+        "Telefon: +49 351 850 966 33",
+        "E-Mail: service@sachsenfaehrtmit.com"
       ]
     },
     {
       "title": "1. Geltungsbereich",
       "type": "paragraph",
       "content": [
-        "Diese AGB gelten für die Nutzung der Websites und Plattformfunktionen von Sachsen Fährt Mit / Drive Together, bereitgestellt von der Simply Hop, durch registrierte und nicht registrierte Nutzerinnen und Nutzer.",
-        "Abweichende Bedingungen der Nutzer finden keine Anwendung, sofern wir ihrer Geltung nicht ausdrücklich schriftlich zustimmen."
+        "1.1 Diese Allgemeinen Geschäftsbedingungen regeln ausschließlich die Nutzung der Website und der Plattform \"Sachsen Fährt Mit\" durch natürliche Personen (nachfolgend \"Nutzer\"), deren Zugang über Unternehmen, Institutionen, Vereine oder Veranstalter bereitgestellt wird.",
+        "1.2 Sie regeln ausschließlich das Nutzungsverhältnis zwischen dem Betreiber und den Nutzern."
       ]
     },
     {
-      "title": "2. Gegenstand der Plattform",
+      "title": "2. Leistungsgegenstand",
       "type": "paragraph",
       "content": [
-        "Die Plattform dient ausschließlich der freiwilligen, eigenverantwortlichen Organisation und Vermittlung von Fahrgemeinschaften zwischen Nutzerinnen und Nutzern.",
-        "Wir stellen hierfür technische Funktionen zur Verfügung, insbesondere zur Kontaktaufnahme und Koordination.",
-        "Eine Beförderungsleistung wird durch uns nicht erbracht.",
-        "Es kommt kein Beförderungsvertrag zwischen uns und den Nutzerinnen und Nutzern zustande."
+        "2.1 Der Betreiber stellt eine digitale Plattform zur privaten Organisation und Vermittlung von Fahrgemeinschaften innerhalb geschlossener Nutzergruppen bereit.",
+        "2.2 Die Plattform stellt ausschließlich technische Funktionen zur Kontakt- und Fahrtvermittlung zur Verfügung.",
+        "2.3 Der Betreiber erbringt keine Beförderungsleistungen. Fahrten kommen ausschließlich zwischen den Nutzern eigenverantwortlich zustande.",
+        "2.4 Die technische Bereitstellung der Plattform erfolgt auf Basis der Plattform \"Simply Hop\". Registrierung, Profilverwaltung und das Einstellen von Fahrten können über diese technische Infrastruktur erfolgen."
       ]
     },
     {
-      "title": "3. Registrierung und Nutzerkonto",
+      "title": "3. Registrierung und Nutzung",
       "type": "paragraph",
       "content": [
-        "Für die Nutzung bestimmter Funktionen ist eine Registrierung erforderlich.",
-        "Die bei der Registrierung gemachten Angaben müssen vollständig und wahrheitsgemäß sein.",
-        "Jede Person darf nur ein Nutzerkonto anlegen.",
-        "Wir behalten uns vor, Nutzerkonten bei Verstößen gegen diese AGB zu sperren oder zu löschen."
+        "3.1 Für bestimmte Funktionen ist eine Registrierung erforderlich. Diese kann eine Weiterleitung auf die technische Plattform des Betreibers (Simply Hop) beinhalten.",
+        "3.2 Nutzer sind verpflichtet, bei der Registrierung wahrheitsgemäße Angaben zu machen und ihre Zugangsdaten vertraulich zu behandeln.",
+        "3.3 Eine missbräuchliche Nutzung der Plattform ist untersagt.",
+        "3.4 Die Nutzung der Plattform ist nur volljährigen natürlichen Personen gestattet."
       ]
     },
     {
       "title": "4. Pflichten der Nutzer",
       "type": "paragraph",
       "content": [
-        "Nutzerinnen und Nutzer verpflichten sich, die Plattform ausschließlich im Rahmen der geltenden Gesetze zu nutzen.",
-        "Insbesondere ist es untersagt:",
-        "- falsche oder irreführende Angaben zu machen",
-        "- rechtswidrige, beleidigende oder diskriminierende Inhalte einzustellen",
-        "- automatisierte oder missbräuchliche Zugriffe vorzunehmen"
+        "4.1 Nutzer nutzen die Plattform eigenverantwortlich.",
+        "4.2 Nutzer haben gesetzliche Vorschriften sowie die Rechte Dritter zu beachten."
       ]
     },
     {
-      "title": "5. Vertragsverhältnis zwischen Fahrer und Mitfahrer",
+      "title": "5. Haftung",
       "type": "paragraph",
       "content": [
-        "Ein etwaiges Vertragsverhältnis über eine Fahrt kommt ausschließlich zwischen den beteiligten Nutzerinnen und Nutzern zustande.",
-        "Wir sind weder Vertragspartner noch Vermittler im rechtlichen Sinne der Fahrt selbst und übernehmen keine Verantwortung für:",
-        "- Zustandekommen",
-        "- Durchführung",
-        "- Sicherheit",
-        "- Pünktlichkeit",
-        "- Verlauf der Fahrgemeinschaft"
+        "5.1 Der Betreiber haftet unbeschränkt bei Vorsatz und grober Fahrlässigkeit.",
+        "5.2 Bei einfacher Fahrlässigkeit haftet der Betreiber nur bei Verletzung wesentlicher Vertragspflichten und beschränkt auf den vorhersehbaren Schaden.",
+        "5.3 Eine Haftung des Betreibers für die Durchführung von Fahrten, das Verhalten von Nutzern oder Schäden im Zusammenhang mit Fahrgemeinschaften ist ausgeschlossen, soweit gesetzlich zulässig."
       ]
     },
     {
-      "title": "6. Kosten und Zahlungsabwicklung",
+      "title": "6. Beendigung der Nutzung",
       "type": "paragraph",
       "content": [
-        "Die Nutzung der Plattform ist derzeit kostenfrei.",
-        "Etwaige Kostenbeteiligungen zwischen Fahrer und Mitfahrer werden ausschließlich privat vereinbart.",
-        "Wir sind nicht an der Zahlungsabwicklung beteiligt und kein Zahlungsdienstleister."
+        "6.1 Nutzer können die Nutzung der Plattform jederzeit beenden.",
+        "6.2 Der Betreiber ist berechtigt, Nutzer bei Verstößen gegen diese AGB von der Nutzung auszuschließen."
       ]
     },
     {
-      "title": "7. Inhalte und Verantwortlichkeit",
+      "title": "7. Datenschutz",
       "type": "paragraph",
       "content": [
-        "Nutzerinnen und Nutzer sind für eigene Inhalte selbst verantwortlich.",
-        "Wir sind nicht verpflichtet, Inhalte vorab zu prüfen.",
-        "Bei Kenntnis von rechtswidrigen Inhalten werden wir diese unverzüglich entfernen oder den Zugang sperren."
+        "Die Verarbeitung personenbezogener Daten erfolgt gemäß den geltenden datenschutzrechtlichen Vorschriften. Weitere Informationen enthält die Datenschutzerklärung.",
+        "Personenbezogene Daten – einschließlich Fahrtdaten – werden nur so lange gespeichert, wie dies für den Betrieb der Plattform, die Nachvollziehbarkeit von Fahrten, Supportzwecke sowie gesetzliche Aufbewahrungspflichten erforderlich ist, in der Regel jedoch nicht länger als 24 Monate."
       ]
     },
     {
-      "title": "8. Laufzeit und Beendigung",
+      "title": "8. Schlussbestimmungen",
       "type": "paragraph",
       "content": [
-        "Das Nutzungsverhältnis kann von beiden Seiten jederzeit ohne Angabe von Gründen beendet werden.",
-        "Bei Verstößen gegen diese AGB behalten wir uns vor, Nutzer dauerhaft von der Nutzung auszuschließen."
+        "8.1 Es gilt das Recht der Bundesrepublik Deutschland.",
+        "8.2 Soweit gesetzlich zulässig, ist Gerichtsstand der Sitz des Betreibers.",
+        "8.3 Sollten einzelne Bestimmungen dieser AGB unwirksam sein oder werden, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt."
       ]
-    },
-    {
-      "title": "9. Haftung",
-      "type": "paragraph",
-      "content": [
-        "(1) Wir übernehmen keine Haftung für das Zustandekommen, die Durchführung oder den Erfolg von Fahrgemeinschaften.",
-        "(2) Wir haften nicht für Schäden aus der Nutzung der Plattform, insbesondere nicht für technische Ausfälle,",
-        "Software- oder Serverfehler, Datenverluste oder Nichtverfügbarkeit, sofern kein vorsätzliches oder grob fahrlässiges Verhalten vorliegt.",
-        "(3) Soweit unsere Haftung ausnahmsweise nicht ausgeschlossen ist, ist sie auf den vertragstypischen, vorhersehbaren Schaden begrenzt.",
-        "(4) Die Haftung für Schäden aus der Verletzung von Leben, Körper oder Gesundheit bleibt unberührt."
-      ]
-    },
-    {
-      "title": "10. Änderungen der AGB",
-      "type": "paragraph",
-      "content": [
-        "Wir behalten uns vor, diese AGB anzupassen, sofern dies aus rechtlichen, technischen oder betrieblichen Gründen erforderlich ist."
-      ]
-    },
-    {
-      "title": "11. Anwendbares Recht",
-      "type": "paragraph",
-      "content": ["Es gilt das Recht der Bundesrepublik Deutschland."]
     }
   ]
 }
